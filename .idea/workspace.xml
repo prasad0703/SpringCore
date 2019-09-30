@@ -1,0 +1,1094 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6f8f6024-b35e-45a4-bf6f-e6e4d1e5c0e0" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Annotation_Component/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Annotation_Component/src/main/java/com/prasad/car/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Annotation_Component/src/main/java/com/prasad/engine/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Annotation_Component/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Annotation_Component/src/test/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Annotation_Named/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Annotation_Named/out/production/classes/myPackage/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Annotation_Named/out/production/classes/myPackage/Engine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Annotation_Named/out/production/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Annotation_Named/out/test/classes/MyDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Annotation_Named/src/main/java/myPackage/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Annotation_Named/src/main/java/myPackage/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Annotation_Named/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Annotation_Named/src/test/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApplicationContextTest/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApplicationContextTest/src/main/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApplicationContextTest/src/main/java/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ApplicationContextTest/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeanFactoryTest/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeanFactoryTest/src/main/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeanFactoryTest/src/main/java/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeanFactoryTest/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeanLifeCycle1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeanLifeCycle1/out/production/classes/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeanLifeCycle1/out/production/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeanLifeCycle1/out/test/classes/MyDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeanLifeCycle1/src/main/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeanLifeCycle1/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeanLifeCycle1/src/test/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeanLifeCycle2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeanLifeCycle2/out/production/classes/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeanLifeCycle2/out/production/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeanLifeCycle2/out/test/classes/MyDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeanLifeCycle2/src/main/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeanLifeCycle2/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeanLifeCycle2/src/test/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeanLifeCycle3/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeanLifeCycle3/out/production/classes/Test.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeanLifeCycle3/out/production/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeanLifeCycle3/out/test/classes/MyDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeanLifeCycle3/src/main/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeanLifeCycle3/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BeanLifeCycle3/src/test/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIArrayType1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIArrayType1/src/main/java/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIArrayType1/src/main/java/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIArrayType1/src/main/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIArrayType1/src/main/resources/car.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIDefaultCollectionType1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIDefaultCollectionType1/src/main/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIDefaultCollectionType1/src/main/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIDefaultCollectionType1/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIDependsOn/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIDependsOn/src/main/java/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIDependsOn/src/main/java/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIDependsOn/src/main/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIDependsOn/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType1/out/production/classes/Audi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType1/out/production/classes/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType1/out/production/classes/CarFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType1/out/production/classes/Honda.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType1/out/production/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType1/out/test/classes/MyDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType1/src/main/java/Audi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType1/src/main/java/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType1/src/main/java/CarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType1/src/main/java/Honda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType1/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType1/src/test/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType2/out/production/classes/Audi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType2/out/production/classes/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType2/out/production/classes/CarFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType2/out/production/classes/Honda.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType2/out/production/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType2/out/test/classes/MyDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType2/src/main/java/Audi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType2/src/main/java/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType2/src/main/java/CarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType2/src/main/java/Honda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType2/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType2/src/test/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType3/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType3/out/production/classes/Audi.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType3/out/production/classes/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType3/out/production/classes/CarFactory.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType3/out/production/classes/Honda.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType3/out/production/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType3/out/test/classes/MyDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType3/src/main/java/Audi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType3/src/main/java/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType3/src/main/java/CarFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType3/src/main/java/Honda.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType3/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIFactoryType3/src/test/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DILookupMethod/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DILookupMethod/out/production/classes/Bus.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DILookupMethod/out/production/classes/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DILookupMethod/out/production/classes/Engine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DILookupMethod/out/production/classes/Truck.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DILookupMethod/out/production/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DILookupMethod/out/test/classes/MyDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DILookupMethod/src/main/java/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DILookupMethod/src/main/java/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DILookupMethod/src/main/java/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DILookupMethod/src/main/java/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DILookupMethod/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DILookupMethod/src/test/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIMethodReplacer/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIMethodReplacer/out/production/classes/Bank.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIMethodReplacer/out/production/classes/NewCalcInt.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIMethodReplacer/out/production/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIMethodReplacer/out/test/classes/MyDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIMethodReplacer/src/main/java/Bank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIMethodReplacer/src/main/java/NewCalcInt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIMethodReplacer/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIMethodReplacer/src/test/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIPropertiesType1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIPropertiesType1/src/main/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIPropertiesType1/src/main/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIPropertiesType1/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIPropertiesType2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIPropertiesType2/src/main/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIPropertiesType2/src/main/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIPropertiesType2/src/main/resources/propFile.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIPropertiesType2/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIRequiredCollectionType1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIRequiredCollectionType1/src/main/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIRequiredCollectionType1/src/main/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIRequiredCollectionType1/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DISetterCheck/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DISetterCheck/src/main/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DISetterCheck/src/main/java/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DISetterCheck/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DISingletonType1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DISingletonType1/out/production/classes/MySingleton.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DISingletonType1/out/production/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DISingletonType1/out/test/classes/MyDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DISingletonType1/src/main/java/MySingleton.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DISingletonType1/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DISingletonType1/src/test/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIStaticVariableType1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIStaticVariableType1/out/production/classes/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIStaticVariableType1/out/production/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIStaticVariableType1/out/test/classes/MyDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIStaticVariableType1/src/main/java/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIStaticVariableType1/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIStaticVariableType1/src/test/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DITest1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DITest1/src/main/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DITest1/src/main/java/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DITest1/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DITest3/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DITest3/src/main/java/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DITest3/src/main/java/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DITest3/src/main/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DITest3/src/main/resources/car.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DITest3/src/main/resources/engine.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DITest4/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DITest4/src/main/java/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DITest4/src/main/java/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DITest4/src/main/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DITest4/src/main/resources/car.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIWithConstructor1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIWithConstructor1/src/main/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIWithConstructor1/src/main/java/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIWithConstructor1/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIWithConstructor2/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIWithConstructor2/src/main/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIWithConstructor2/src/main/java/MyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DIWithConstructor2/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Annotation/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Annotation/src/main/java/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Annotation/src/main/java/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Annotation/src/main/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Annotation/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Inject/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Inject/out/production/classes/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Inject/out/production/classes/Engine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Inject/out/production/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Inject/out/test/classes/MyDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Inject/src/main/java/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Inject/src/main/java/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Inject/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Inject/src/test/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Resource/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Resource/out/production/classes/Car.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Resource/out/production/classes/Engine.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Resource/out/production/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Resource/out/test/classes/MyDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Resource/src/main/java/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Resource/src/main/java/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Resource/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Resource/src/test/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Xml1/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Xml1/src/main/java/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Xml1/src/main/java/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Xml1/src/main/java/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Xml1/src/main/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Xml1/src/main/resources/springByName.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Xml1/src/main/resources/springByType.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_Autowiring_Xml1/src/main/resources/springConstructor.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_P_C_Namespaces/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_P_C_Namespaces/src/main/java/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_P_C_Namespaces/src/main/java/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_P_C_Namespaces/src/main/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_P_C_Namespaces/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_PropertiesData/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_PropertiesData/out/production/classes/ConPool.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_PropertiesData/out/production/resources/Driver.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_PropertiesData/out/production/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_PropertiesData/out/test/classes/MyDriver.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_PropertiesData/src/main/java/ConPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_PropertiesData/src/main/resources/Driver.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_PropertiesData/src/main/resources/spring.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DI_PropertiesData/src/test/java/MyDriver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/classes/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/DIStaticVariableType1/.gradle/" />
+    <ignored path="$PROJECT_DIR$/DIStaticVariableType1/build/" />
+    <ignored path="$PROJECT_DIR$/DIStaticVariableType1/out/" />
+    <ignored path="$PROJECT_DIR$/Annotation_Component/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Annotation_Component/out/" />
+    <ignored path="$PROJECT_DIR$/ApplicationContextTest/.gradle/" />
+    <ignored path="$PROJECT_DIR$/ApplicationContextTest/build/" />
+    <ignored path="$PROJECT_DIR$/ApplicationContextTest/out/" />
+    <ignored path="$PROJECT_DIR$/BeanFactoryTest/.gradle/" />
+    <ignored path="$PROJECT_DIR$/BeanFactoryTest/out/" />
+    <ignored path="$PROJECT_DIR$/DI_Autowiring_Annotation/.gradle/" />
+    <ignored path="$PROJECT_DIR$/DI_Autowiring_Annotation/out/" />
+    <ignored path="$PROJECT_DIR$/DI_Autowiring_Xml1/.gradle/" />
+    <ignored path="$PROJECT_DIR$/DI_Autowiring_Xml1/out/" />
+    <ignored path="$PROJECT_DIR$/DI_P_C_Namespaces/.gradle/" />
+    <ignored path="$PROJECT_DIR$/DI_P_C_Namespaces/out/" />
+    <ignored path="$PROJECT_DIR$/DIArrayType1/.gradle/" />
+    <ignored path="$PROJECT_DIR$/DIArrayType1/out/" />
+    <ignored path="$PROJECT_DIR$/DIDefaultCollectionType1/.gradle/" />
+    <ignored path="$PROJECT_DIR$/DIDefaultCollectionType1/out/" />
+    <ignored path="$PROJECT_DIR$/DIDependsOn/.gradle/" />
+    <ignored path="$PROJECT_DIR$/DIDependsOn/out/" />
+    <ignored path="$PROJECT_DIR$/DIPropertiesType1/.gradle/" />
+    <ignored path="$PROJECT_DIR$/DIPropertiesType1/out/" />
+    <ignored path="$PROJECT_DIR$/DIPropertiesType2/.gradle/" />
+    <ignored path="$PROJECT_DIR$/DIPropertiesType2/out/" />
+    <ignored path="$PROJECT_DIR$/DIRequiredCollectionType1/.gradle/" />
+    <ignored path="$PROJECT_DIR$/DIRequiredCollectionType1/out/" />
+    <ignored path="$PROJECT_DIR$/DISetterCheck/.gradle/" />
+    <ignored path="$PROJECT_DIR$/DISetterCheck/out/" />
+    <ignored path="$PROJECT_DIR$/DITest1/.gradle/" />
+    <ignored path="$PROJECT_DIR$/DITest1/out/" />
+    <ignored path="$PROJECT_DIR$/DITest3/.gradle/" />
+    <ignored path="$PROJECT_DIR$/DITest3/out/" />
+    <ignored path="$PROJECT_DIR$/DITest4/.gradle/" />
+    <ignored path="$PROJECT_DIR$/DITest4/out/" />
+    <ignored path="$PROJECT_DIR$/DIWithConstructor1/.gradle/" />
+    <ignored path="$PROJECT_DIR$/DIWithConstructor1/out/" />
+    <ignored path="$PROJECT_DIR$/DIWithConstructor2/.gradle/" />
+    <ignored path="$PROJECT_DIR$/DIWithConstructor2/out/" />
+    <ignored path="$PROJECT_DIR$/DISingletonType1/.gradle/" />
+    <ignored path="$PROJECT_DIR$/DISingletonType1/build/" />
+    <ignored path="$PROJECT_DIR$/DISingletonType1/out/" />
+    <ignored path="$PROJECT_DIR$/DIFactoryType1/.gradle/" />
+    <ignored path="$PROJECT_DIR$/DIFactoryType1/build/" />
+    <ignored path="$PROJECT_DIR$/DIFactoryType1/out/" />
+    <ignored path="$PROJECT_DIR$/DIFactoryType2/.gradle/" />
+    <ignored path="$PROJECT_DIR$/DIFactoryType2/build/" />
+    <ignored path="$PROJECT_DIR$/DIFactoryType2/out/" />
+    <ignored path="$PROJECT_DIR$/DIFactoryType3/.gradle/" />
+    <ignored path="$PROJECT_DIR$/DIFactoryType3/build/" />
+    <ignored path="$PROJECT_DIR$/DIFactoryType3/out/" />
+    <ignored path="$PROJECT_DIR$/BeanLifeCycle1/.gradle/" />
+    <ignored path="$PROJECT_DIR$/BeanLifeCycle1/build/" />
+    <ignored path="$PROJECT_DIR$/BeanLifeCycle1/out/" />
+    <ignored path="$PROJECT_DIR$/BeanLifeCycle2/.gradle/" />
+    <ignored path="$PROJECT_DIR$/BeanLifeCycle2/build/" />
+    <ignored path="$PROJECT_DIR$/BeanLifeCycle2/out/" />
+    <ignored path="$PROJECT_DIR$/BeanLifeCycle3/.gradle/" />
+    <ignored path="$PROJECT_DIR$/BeanLifeCycle3/build/" />
+    <ignored path="$PROJECT_DIR$/BeanLifeCycle3/out/" />
+    <ignored path="$PROJECT_DIR$/DILookupMethod/.gradle/" />
+    <ignored path="$PROJECT_DIR$/DILookupMethod/build/" />
+    <ignored path="$PROJECT_DIR$/DILookupMethod/out/" />
+    <ignored path="$PROJECT_DIR$/DIMethodReplacer/.gradle/" />
+    <ignored path="$PROJECT_DIR$/DIMethodReplacer/build/" />
+    <ignored path="$PROJECT_DIR$/DIMethodReplacer/out/" />
+    <ignored path="$PROJECT_DIR$/DI_Autowiring_Resource/.gradle/" />
+    <ignored path="$PROJECT_DIR$/DI_Autowiring_Resource/build/" />
+    <ignored path="$PROJECT_DIR$/DI_Autowiring_Resource/out/" />
+    <ignored path="$PROJECT_DIR$/DI_Autowiring_Inject/.gradle/" />
+    <ignored path="$PROJECT_DIR$/DI_Autowiring_Inject/build/" />
+    <ignored path="$PROJECT_DIR$/DI_Autowiring_Inject/out/" />
+    <ignored path="$PROJECT_DIR$/Annotation_Named/.gradle/" />
+    <ignored path="$PROJECT_DIR$/Annotation_Named/build/" />
+    <ignored path="$PROJECT_DIR$/Annotation_Named/out/" />
+    <ignored path="$PROJECT_DIR$/DI_PropertiesData/.gradle/" />
+    <ignored path="$PROJECT_DIR$/DI_PropertiesData/build/" />
+    <ignored path="$PROJECT_DIR$/DI_PropertiesData/out/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <task path="$PROJECT_DIR$">
+          <activation />
+        </task>
+        <task path="$PROJECT_DIR$/BeanLifeCycle1">
+          <activation />
+        </task>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SpringTest" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SpringTest" type="f1a62948:ProjectNode" />
+                <item name="BeanLifeCycle1" type="2d1252cf:ModuleNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SpringTest" type="f1a62948:ProjectNode" />
+                <item name="BeanLifeCycle1" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="SpringTest" type="f1a62948:ProjectNode" />
+                <item name="BeanLifeCycle1" type="2d1252cf:ModuleNode" />
+                <item name="Tasks" type="e4a08cd1:TasksNode" />
+                <item name="build" type="c8890929:TasksNode$1" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/DIFactoryType1/src/main/java/Honda.java" />
+        <option value="$PROJECT_DIR$/DIFactoryType1/src/test/java/MyDriver.java" />
+        <option value="$PROJECT_DIR$/DIFactoryType1/src/main/java/CarFactory.java" />
+        <option value="$PROJECT_DIR$/DIFactoryType1/src/main/resources/spring.xml" />
+        <option value="$PROJECT_DIR$/DIFactoryType2/build.gradle" />
+        <option value="$PROJECT_DIR$/DIFactoryType2/src/main/java/CarFactory.java" />
+        <option value="$PROJECT_DIR$/DIFactoryType2/src/test/java/MyDriver.java" />
+        <option value="$PROJECT_DIR$/DIFactoryType2/src/main/resources/spring.xml" />
+        <option value="$PROJECT_DIR$/DIFactoryType3/build.gradle" />
+        <option value="$PROJECT_DIR$/DIFactoryType3/src/main/resources/spring.xml" />
+        <option value="$PROJECT_DIR$/DIFactoryType3/src/test/java/MyDriver.java" />
+        <option value="$PROJECT_DIR$/DIFactoryType3/src/main/java/CarFactory.java" />
+        <option value="$PROJECT_DIR$/BeanLifeCycle1/build.gradle" />
+        <option value="$PROJECT_DIR$/BeanLifeCycle1/src/main/resources/spring.xml" />
+        <option value="$PROJECT_DIR$/BeanLifeCycle1/src/test/java/MyDriver.java" />
+        <option value="$PROJECT_DIR$/BeanLifeCycle1/src/main/java/Test.java" />
+        <option value="$PROJECT_DIR$/BeanLifeCycle2/build.gradle" />
+        <option value="$PROJECT_DIR$/BeanLifeCycle2/src/main/resources/spring.xml" />
+        <option value="$PROJECT_DIR$/BeanLifeCycle2/src/main/java/Test.java" />
+        <option value="$PROJECT_DIR$/BeanLifeCycle3/build.gradle" />
+        <option value="$PROJECT_DIR$/BeanLifeCycle3/src/main/java/Test.java" />
+        <option value="$PROJECT_DIR$/BeanLifeCycle3/src/main/resources/spring.xml" />
+        <option value="$PROJECT_DIR$/BeanLifeCycle3/src/test/java/MyDriver.java" />
+        <option value="$PROJECT_DIR$/DILookupMethod/build.gradle" />
+        <option value="$PROJECT_DIR$/DILookupMethod/src/main/java/Engine.java" />
+        <option value="$PROJECT_DIR$/DILookupMethod/src/main/java/Car.java" />
+        <option value="$PROJECT_DIR$/DILookupMethod/src/main/java/Bus.java" />
+        <option value="$PROJECT_DIR$/DILookupMethod/src/main/java/Truck.java" />
+        <option value="$PROJECT_DIR$/DILookupMethod/src/main/resources/spring.xml" />
+        <option value="$PROJECT_DIR$/DILookupMethod/src/test/java/MyDriver.java" />
+        <option value="$PROJECT_DIR$/DIMethodReplacer/build.gradle" />
+        <option value="$PROJECT_DIR$/DIMethodReplacer/src/main/java/Bank.java" />
+        <option value="$PROJECT_DIR$/DIMethodReplacer/src/test/java/MyDriver.java" />
+        <option value="$PROJECT_DIR$/DIMethodReplacer/src/main/java/NewCalcInt.java" />
+        <option value="$PROJECT_DIR$/DIMethodReplacer/src/main/resources/spring.xml" />
+        <option value="$PROJECT_DIR$/DI_Autowiring_Resource/src/main/resources/spring.xml" />
+        <option value="$PROJECT_DIR$/DI_Autowiring_Resource/src/main/java/Car.java" />
+        <option value="$PROJECT_DIR$/DI_Autowiring_Resource/build.gradle" />
+        <option value="$PROJECT_DIR$/DI_Autowiring_Inject/build.gradle" />
+        <option value="$PROJECT_DIR$/DI_Autowiring_Inject/src/main/java/Car.java" />
+        <option value="$PROJECT_DIR$/Annotation_Named/src/main/java/Engine.java" />
+        <option value="$PROJECT_DIR$/Annotation_Named/src/test/java/MyDriver.java" />
+        <option value="$PROJECT_DIR$/Annotation_Named/src/main/java/Car.java" />
+        <option value="$PROJECT_DIR$/Annotation_Named/src/main/resources/spring.xml" />
+        <option value="$PROJECT_DIR$/Annotation_Named/build.gradle" />
+        <option value="$PROJECT_DIR$/Annotation_Named/src/main/java/myPackage/Car.java" />
+        <option value="$PROJECT_DIR$/DI_PropertiesData/build.gradle" />
+        <option value="$PROJECT_DIR$/DI_PropertiesData/src/main/resources/Driver.properties" />
+        <option value="$PROJECT_DIR$/DI_PropertiesData/src/main/java/ConPool.java" />
+        <option value="$PROJECT_DIR$/DI_PropertiesData/src/main/resources/spring.xml" />
+        <option value="$PROJECT_DIR$/DI_PropertiesData/src/test/java/MyDriver.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="85" />
+    <option name="y" value="25" />
+    <option name="width" value="1750" />
+    <option name="height" value="980" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SpringTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringTest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringTest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="DIWithConstructor1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="SpringTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="SpringTest" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="DIWithConstructor1" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.5058824" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\intellij_workspace\SpringTest\DI_PropertiesData\src\main\resources" />
+      <recent name="E:\intellij_workspace\SpringTest\Annotation_Named\src\main\resources" />
+      <recent name="E:\intellij_workspace\SpringTest\DI_Autowiring_Inject\src\main\resources" />
+      <recent name="E:\intellij_workspace\SpringTest\DI_Autowiring_Inject\src\main\java" />
+      <recent name="E:\intellij_workspace\SpringTest\DI_Autowiring_Resource\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Gradle.SpringTest:BeanLifeCycle1 [clean]">
+    <configuration name="MyDriver (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyDriver" />
+      <module name="SpringTest.DI_PropertiesData.test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyDriver (5)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyDriver" />
+      <module name="SpringTest.DI_Autowiring_Inject.test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MyDriver" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MyDriver" />
+      <module name="SpringTest.Annotation_Named.test" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringTest [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <configuration name="SpringTest:BeanLifeCycle1 [clean]" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/BeanLifeCycle1" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value="clean" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>true</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.SpringTest:BeanLifeCycle1 [clean]" />
+        <item itemvalue="Gradle.SpringTest [clean]" />
+        <item itemvalue="Application.MyDriver (1)" />
+        <item itemvalue="Application.MyDriver" />
+        <item itemvalue="Application.MyDriver (5)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6f8f6024-b35e-45a4-bf6f-e6e4d1e5c0e0" name="Default Changelist" comment="" />
+      <created>1565766258133</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1565766258133</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.29127517" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286119" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" visible="true" weight="0.3286119" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.3286119" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Build" order="10" weight="0.3286119" />
+      <window_info anchor="bottom" id="Messages" order="11" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" weight="0.3295302" />
+      <window_info anchor="right" id="Gradle" order="5" visible="true" weight="0.3295302" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/BeanLifeCycle2/src/test/java/MyDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BeanLifeCycle2/src/main/java/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="19" column="52" selection-start-line="19" selection-start-column="52" selection-end-line="19" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BeanLifeCycle2/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-end-line="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BeanFactoryTest/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="22" lean-forward="true" selection-start-line="4" selection-start-column="22" selection-end-line="4" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DI_Autowiring_Xml1/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="16" column="53" lean-forward="true" selection-start-line="16" selection-start-column="53" selection-end-line="16" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DI_P_C_Namespaces/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DISetterCheck/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" lean-forward="true" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DIWithConstructor2/build.gradle">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BeanLifeCycle3/src/main/java/Test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="20" column="11" selection-start-line="20" selection-start-column="11" selection-end-line="20" selection-end-column="11" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BeanLifeCycle3/src/test/java/MyDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="20" selection-start-line="9" selection-start-column="20" selection-end-line="9" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BeanLifeCycle3/src/main/resources/spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="53" selection-start-line="6" selection-start-column="53" selection-end-line="6" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/BeanLifeCycle3/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" selection-start-line="27" selection-end-line="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DIFactoryType3/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="4" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="22" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DILookupMethod/src/main/java/Engine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="25" selection-start-line="8" selection-start-column="25" selection-end-line="8" selection-end-column="25" />
+          <folding>
+            <element signature="e#85#86#0" expanded="true" />
+            <element signature="e#117#118#0" expanded="true" />
+            <element signature="e#148#149#0" expanded="true" />
+            <element signature="e#180#181#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DILookupMethod/src/main/java/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="25" selection-start-line="1" selection-start-column="25" selection-end-line="1" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DILookupMethod/src/main/java/Bus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DILookupMethod/src/main/java/Truck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="6" column="5" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DILookupMethod/src/main/resources/spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DILookupMethod/src/test/java/MyDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DIMethodReplacer/src/main/resources/spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="53" selection-start-line="8" selection-start-column="53" selection-end-line="8" selection-end-column="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DILookupMethod/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="170">
+          <caret line="10" column="18" lean-forward="true" selection-start-line="10" selection-start-column="18" selection-end-line="10" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DIMethodReplacer/src/test/java/MyDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="8" column="19" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DIMethodReplacer/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="90" selection-start-line="22" selection-start-column="90" selection-end-line="22" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DIMethodReplacer/src/main/java/Bank.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="68">
+          <caret line="4" column="26" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+          <folding>
+            <element signature="e#46#47#0" expanded="true" />
+            <element signature="e#68#69#0" expanded="true" />
+            <element signature="e#207#208#0" expanded="true" />
+            <element signature="e#233#234#0" expanded="true" />
+            <element signature="e#300#301#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DIMethodReplacer/src/main/java/NewCalcInt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="1" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DI_Autowiring_Annotation/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="90" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="22" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DI_Autowiring_Resource/src/main/java/Engine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DI_Autowiring_Resource/src/main/resources/spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="272">
+          <caret line="18" column="11" selection-start-line="18" selection-start-column="11" selection-end-line="18" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DI_Autowiring_Resource/src/test/java/MyDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="7" column="41" selection-start-line="7" selection-start-column="41" selection-end-line="7" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DI_Autowiring_Resource/src/main/java/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <element signature="e#210#211#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DI_Autowiring_Inject/src/main/java/Engine.java">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DI_Autowiring_Inject/src/test/java/MyDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DI_Autowiring_Inject/src/main/java/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="11" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DI_Autowiring_Inject/src/main/resources/spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="13" column="32" selection-start-line="13" selection-start-column="32" selection-end-line="13" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Annotation_Component/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="90" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="22" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DI_Autowiring_Resource/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="4" lean-forward="true" selection-start-line="24" selection-start-column="4" selection-end-line="24" selection-end-column="85" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DI_Autowiring_Inject/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="293">
+          <caret line="24" column="33" lean-forward="true" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Annotation_Named/src/main/java/myPackage/Car.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="11" column="18" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="18" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Annotation_Named/src/main/java/myPackage/Engine.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="102">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Annotation_Named/src/test/java/MyDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="9" column="5" selection-start-line="9" selection-start-column="5" selection-end-line="9" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Annotation_Named/src/main/resources/spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Annotation_Named/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="90" lean-forward="true" selection-start-line="15" selection-start-column="4" selection-end-line="22" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DI_PropertiesData/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="22" column="90" selection-start-line="22" selection-start-column="90" selection-end-line="22" selection-end-column="90" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DI_PropertiesData/src/main/java/ConPool.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <folding>
+            <element signature="e#96#97#0" expanded="true" />
+            <element signature="e#132#133#0" expanded="true" />
+            <element signature="e#170#171#0" expanded="true" />
+            <element signature="e#200#201#0" expanded="true" />
+            <element signature="e#317#318#0" expanded="true" />
+            <element signature="e#383#384#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DI_PropertiesData/src/test/java/MyDriver.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="153">
+          <caret line="10" column="1" selection-start-line="10" selection-start-column="1" selection-end-line="10" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DI_PropertiesData/src/main/resources/Driver.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="17">
+          <caret line="1" column="15" lean-forward="true" selection-start-line="1" selection-start-column="15" selection-end-line="1" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DI_PropertiesData/src/main/resources/spring.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="15" column="11" lean-forward="true" selection-start-line="15" selection-start-column="11" selection-end-line="15" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DITest4/src/main/resources/car.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="187">
+          <caret line="11" column="34" selection-start-line="11" selection-start-column="34" selection-end-line="11" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="85">
+          <caret line="5" column="22" selection-start-line="5" selection-start-column="22" selection-end-line="5" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/settings.gradle">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-240" />
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>BeanLifeCycle1|SpringTest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.5058824" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>12</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
